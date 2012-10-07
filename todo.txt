@@ -1,0 +1,13 @@
+this week: figure out how to test the software
+test the software over the weekend
+
+
+http://mashable.com/2012/02/07/texting-teens/
+
+testing:
+create the excel file with 30 names in various positions
+
+1. downloading the excel file
+2. reading and parsing excel file
+3. saving data from the file and requesting more data
+4. checking rewards and updating the database

@@ -1,0 +1,198 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Local|PHP 5.2"
+    {
+    }
+    "Staging|PHP 5.2"
+    {
+    }
+    "Production|PHP 5.2"
+    {
+    }
+}
+"Files"
+{
+    "ajax-search - Copy.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "ajax.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "crons"
+    {
+    "ProjRelPath" = "T"
+    }
+    "crons\\hourly.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "crons\\weekly.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\reset.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\style.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "files"
+    {
+    "ProjRelPath" = "T"
+    }
+    "files\\subscribers.xls"
+    {
+    "ProjRelPath" = "T"
+    }
+    "files\\user_table_backup.sql"
+    {
+    "ProjRelPath" = "T"
+    }
+    "img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "img\\loading_animate.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "img\\loading_static.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "img\\nitro-subcontentbg01__b06c041.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "img\\nitro-subcontentbg_top__947eec6.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "img\\nitro_contentbg_bttm__d5934f1.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "img\\nitro_faqsearch__80573fb.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "img\\textinputbg__5d76440.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "includes"
+    {
+    "ProjRelPath" = "T"
+    }
+    "includes\\classes"
+    {
+    "ProjRelPath" = "T"
+    }
+    "includes\\classes\\ez_sql.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "includes\\classes\\ez_sql_demo.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "includes\\classes\\ez_sql_help.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "includes\\classes\\oleread.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "includes\\classes\\reader.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "includes\\classes\\sms.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "includes\\classes\\sms_instructions.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "includes\\functions.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "msc"
+    {
+    "ProjRelPath" = "T"
+    }
+    "msc.intellisense.cache"
+    {
+    "ProjRelPath" = "T"
+    }
+    "msc\\index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "msc\\msc.intellisense.cache"
+    {
+    "ProjRelPath" = "T"
+    }
+    "msc\\msc.phpproj"
+    {
+    "ProjRelPath" = "T"
+    }
+    "msc\\msc.sln"
+    {
+    "ProjRelPath" = "T"
+    }
+    "send_adverts.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "tmp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "todo.txt"
+    {
+    "ProjRelPath" = "T"
+    }
+    "user.php"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}
