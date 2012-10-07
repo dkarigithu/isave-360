@@ -1,0 +1,1 @@
+<p class="message">Your email was sent successfully.</p>
